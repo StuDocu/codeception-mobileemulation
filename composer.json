@@ -2,6 +2,7 @@
     "name": "studocu/codeception-mobileemulation",
     "description": "WebDriver mobile emulation switcher for Codeception",
     "type": "library",
+    "version": "2.0.0",
     "license": "MIT",
     "require": {
         "php": ">=5.6"
