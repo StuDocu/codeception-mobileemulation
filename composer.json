@@ -1,5 +1,5 @@
 {
-    "name": "elstc/codeception-mobileemulation",
+    "name": "studocu/codeception-mobileemulation",
     "description": "WebDriver mobile emulation switcher for Codeception",
     "type": "library",
     "license": "MIT",
