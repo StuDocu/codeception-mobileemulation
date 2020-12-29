@@ -21,7 +21,7 @@ You can install this plugin into your applicaion using [composer](http://getcomp
 The recommended way to install composer packages is:
 
 ```
-composer require --dev elstc/codeception-mobileemulation
+composer require --dev studocu/codeception-mobileemulation
 ```
 
 
